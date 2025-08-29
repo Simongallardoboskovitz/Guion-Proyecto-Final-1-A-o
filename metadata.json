@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Guiones para Videoblogs 1ª año _ Proyecto final",
+  "description": "Una aplicación interactiva para generar guiones de videoblogs educativos sobre investigación y proyectos utilizando IA. Proporciona una estructura clara con hooks, contexto, soluciones y llamados a la acción.",
+  "requestFramePermissions": []
+}
